@@ -3,7 +3,8 @@
 
 ## Aveiro
 
-**População**: ~63k habitantes
+**População**: 
+~63k habitantes
 
 **Factos**:
 - Veneza de Portugal
@@ -26,7 +27,8 @@
 
 ## Shanghai
 
-**População**: ~27M habitantes
+**População**:
+~27M habitantes
 
 **Factos**:
 - Maior Cidade da China
@@ -49,7 +51,8 @@
 
 ## Rio de Janeiro
 
-**População**: ~6M habitantes
+**População**:
+~6M habitantes
 
 **Factos**:
 - Segunda Maior Cidade do Brazil
