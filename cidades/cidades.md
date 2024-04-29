@@ -1,6 +1,29 @@
 
 # Cidades
 
+## Gafanha da Nazaré
+
+**População**: 
+~16k habitantes
+
+**Factos**:
+- Gafanhas
+    - A principal das 7 Gafanhas existentes...  
+- Cidade Portuária
+    -  Área de 75km²
+- Localização
+    - Beira Mar
+- Área Total
+    - 16,44 km²
+
+**Links**:
+	[Gafanha da Nazaré City](https://www.visitilhavo.pt/locais-a-visitar/cidade-portuaria-gafanha-da-nazare)
+
+**Imagem**:
+![alt text](image-3.png)
+
+----------------------------------------------------------------------------------
+
 ## Aveiro
 
 **População**: 
@@ -9,7 +32,7 @@
 **Factos**:
 - Veneza de Portugal
     - Canais no interior da cidade
-- Cidade Portuária
+- Ria de Aveiro
     - Porto de Aveiro
 - Localização
     - Beira Mar
@@ -69,3 +92,4 @@
 
 **Imagem**:
 ![alt text](image-2.png)
+
