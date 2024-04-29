@@ -10,7 +10,7 @@
 - Gafanhas
     - A principal das 7 Gafanhas existentes...  
 - Cidade Portuária
-    -  Área de 75km²
+    -  Porto de Aveiro
 - Localização
     - Beira Mar
 - Área Total
@@ -33,7 +33,7 @@
 - Veneza de Portugal
     - Canais no interior da cidade
 - Ria de Aveiro
-    - Porto de Aveiro
+    - Área de 75km²
 - Localização
     - Beira Mar
 - Área Total
